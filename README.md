@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ux4hack&theme=dark&border_radius=8.5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&ring=FF0000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ux4hack&layout=compact)](https://github.com/Ux4hack/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ux4hack&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Ux4hack/github-readme-stats#gh-dark-mode-only)
