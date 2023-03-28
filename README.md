@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 <h1 align="center">Soy Ux4hack</h1>
 <h3 align="center">El mejor 🔥</h3>
 
-<p align="left"> <img src="https://komarev.com /ghpvc/?username=ux4hack&label=Profile%20views&color=ff0000&style=flat-square" alt="ux4hack" /> </p> <p align="
+<p align="left"> <img src="https://komarev.com /ghpvc/?username=Ux4hack&label=Profile%20views&color=ff0000&style=flat-square" alt="ux4hack" /> </p> <p align="
 
-left"> <a href="https://github.com/ ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=ux4hack" alt="ux4hack" /></a> </p>
+left"> <a href="https://github.com/ ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=Ux4hack" alt="Ux4hack" /></a> </p>
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
