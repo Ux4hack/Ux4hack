@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ux4hack&show_icons=true&theme=dark&locale=es&cache_seconds=2500&show_border=true&icon_color=31ff0d&title_color=FF0000&bg_color=101010&include_all_commits=true"></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ux4hack&theme=dark&border_radius=8.5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&ring=FF0000)](https://git.io/streak-stats)
--->
+
+
 <h1 align="center">Soy Ux4hack</h1>
 <h3 align="center">El mejor 🔥</h3>
 
@@ -36,3 +37,4 @@ left"> <a href="https://github.com/ ryo-ma/github-profile-trofeo"><img src="http
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ux4hack&show_icons=true&locale=en" alt="ux4hack" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ux4hack&theme=highcontrast" alt="ux4hack" />< /p>
+-->
