@@ -1,6 +1,6 @@
 ### Yo soy: Ux4hack
 
-** Bienvenidos a mi perfil de Github...
+* Bienvenidos a mi perfil de Github...
 
 <a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ux4hack&show_icons=true&theme=dark&locale=es&cache_seconds=2500&show_border=true&icon_color=31ff0d&title_color=FF0000&bg_color=101010&include_all_commits=true"></a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ux4hack&theme=dark&border_radius=8.5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&ring=FF0000)](https://git.io/streak-stats)
