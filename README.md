@@ -4,7 +4,6 @@
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ux4hack&hide=ruby,perl&hide_border=true" /> -->
 
 <p align=center> I am Ux4hack </p>
-* Bienvenidos a mi perfil de Github...
 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=ux4hack&color=FF0000&style=plastic /> </p>
 
