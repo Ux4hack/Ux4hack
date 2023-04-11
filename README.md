@@ -3,9 +3,7 @@
 <!--  <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/63346676?s=400&u=a01b5199f29c08a702f4c65bfaa47d3b76e25cb1&v=4" /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ux4hack&hide=ruby,perl&hide_border=true" /> -->
 
-<a href="#">
-<img title="Welcome Note" src="https://user-images.githubusercontent.com/63346676/104586287-4c91d280-568b-11eb-9b08-5b84c8c94515.png" /></a>
-
+<p align=center> I am Ux4hack </p>
 * Bienvenidos a mi perfil de Github...
 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=ux4hack&color=FF0000&style=plastic /> </p>
