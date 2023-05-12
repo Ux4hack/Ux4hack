@@ -5,6 +5,10 @@
 
 <p align=center> I am Ux4hack </p>
 
+<p align="center">
+<img width="80%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/ux.gif"/>
+</p>
+
 <p align=center> <img src=https://komarev.com/ghpvc/?username=ux4hack&color=FF0000&style=plastic /> </p>
 
 <a href="https://github.com/Zachpocalypse/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Ux4hack&show_icons=true&theme=dark&locale=es&cache_seconds=2500&show_border=true&icon_color=31ff0d&title_color=FF0000&bg_color=101010&include_all_commits=true"></a>
