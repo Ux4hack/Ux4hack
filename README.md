@@ -4,7 +4,7 @@
 <p align=center> I am Ux4hack </p>
 
 <p align="center">
-<img width="90%" src="https://github.com/Ux4hack/Ux4hack/blob/main/ux4.gif" />
+<img width="80%" src="https://github.com/Ux4hack/Ux4hack/blob/main/ux4.gif" />
 </p>
 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=ux4hack&color=FF0000&style=plastic /> </p>
