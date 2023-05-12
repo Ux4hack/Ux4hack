@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=7B7D7D&height=150&section=header)
 <p align="center">
-<!--  <img alt="profile pic" width="195px" src="https://avatars1.githubusercontent.com/u/63346676?s=400&u=a01b5199f29c08a702f4c65bfaa47d3b76e25cb1&v=4" /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Ux4hack&hide=ruby,perl&hide_border=true" /> -->
-
+  
 <p align=center> I am Ux4hack </p>
 
 <p align="center">
-<img width="80%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/ux.gif"/>
+<img width="90%" src="https://github.com/Ux4hack/Dtve_Web/blob/main/ux.gif" />
 </p>
 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=ux4hack&color=FF0000&style=plastic /> </p>
