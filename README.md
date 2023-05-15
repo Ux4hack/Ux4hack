@@ -1,6 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=7B7D7D&height=150&section=header)
 <p align="center">
   
+
+<div align="center">
+    <img src="https://i.imgur.com/v3uRjs4.gif" width="400" alt="Animated Banner">
+</div>
+
+
+
 <p align=center> I am Ux4hack </p>
 
 <p align="center">
