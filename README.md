@@ -4,10 +4,6 @@
 <p align=center> I am Ux4hack </p>
 
 
-![Animación](https://camo.githubusercontent.com/8e6a134de831ef4df2862ef650f262a5a42a3b8e2021c4d7d3d08639e948a3e5/68747470733a2f2f70726f626f742e6d656469612f526f6a4d6a34454746754c2e676966)
-
-
-
 <p align="center">
 <img width="80%" src="https://github.com/Ux4hack/Ux4hack/blob/main/ux4.gif" />
 </p>
