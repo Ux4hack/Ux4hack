@@ -16,12 +16,10 @@
 </p>
 <p>
   
-</p>
 <p align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ux4hack&theme=dark&border_radius=8.5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&ring=FF0000)](https://git.io/streak-stats)
   </p>
-<p>
-  
+
 <h3 align="left">Languages and Tools:</h3>
 </p>
 <p align="center">
