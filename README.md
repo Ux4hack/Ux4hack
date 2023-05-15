@@ -15,9 +15,13 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ux4hack&theme=dark&border_radius=8.5&locale=es&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png&ring=FF0000)](https://git.io/streak-stats)
   
 <h3 align="left">Languages and Tools:</h3>
+</p>
+<p align="center">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img 
+</p>
+<p>
 
 </p>
 <p align="center">
