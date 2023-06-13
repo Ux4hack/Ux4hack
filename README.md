@@ -26,5 +26,9 @@
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img 
 </p>
 <p>
+    
+<p align="center">
+<a href="https://github.com/Ux4hack" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/github.png" width="150"></a> 
+</p>  
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=7B7D7D&height=150&section=footer)
