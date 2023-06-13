@@ -27,9 +27,12 @@
 </p>
 <p>
     
+<h3 align="left">Redes Sociales:</h3>
+
 <p align="center">
 <a href="https://github.com/Ux4hack" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/github.png" width="150"></a> 
 <a href="https://www.facebook.com/Er4NotFound?mibextid=ZbWKwL" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/facebook.png" width="150"></a>
+href="https://instagram.com/erasmogalvez_404?igshid=ZGUzMzM3NWJiOQ==) ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/instagram.png" width="150"></a>  
 </p>  
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=7B7D7D&height=150&section=footer)
