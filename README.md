@@ -31,7 +31,8 @@
 
 <p align="center">
 <a href="https://github.com/Ux4hack" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/github.png" width="150"></a> 
-<a href="https://www.facebook.com/Er4NotFound?mibextid=ZbWKwL" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/facebook.png" width="150"></a
+<a href="https://www.facebook.com/Er4NotFound?mibextid=ZbWKwL" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/facebook.png" width="150"></a>
+ <a
 href="https://instagram.com-instagram-account@is.gd/bSydwc" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/instagram.png" width="150"></a>  
 </p>  
 
